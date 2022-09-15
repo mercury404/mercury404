@@ -1,6 +1,6 @@
 # about me
 i code stuff, and i like cats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=astralpy&theme=midnight-purple&show_icons=true)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-^ this is from https://github.com/anuraghazra/github-readme-stats
+^ this is from https://github.com/jstrieb/github-stats
